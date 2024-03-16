@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name" translatable="false">Job Finder</string>
+
+    <!-- TopAppBar -->
+    <string name="top_app_bar_icon_button_filter_content_desc">Filter Jobs</string>
+
+    <!-- Bottom Navigation -->
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_search">Search</string>
+    <string name="bottom_nav_saved">Saved</string>
+    <string name="bottom_nav_profile">Profile</string>
+
+    <!-- Home Tab -->
+    <string name="home_title" translatable="false">Discover Jobs</string>
+    <string name="home_search_hint">Search for jobs</string>
+    <string name="home_recent_searches">Recent Searches</string>
+    <string name="home_featured_jobs">Featured Jobs</string>
+
+    <!-- Search Tab -->
+    <string name="search_title">Search Jobs</string>
+    <string name="search_hint_location">Location</string>
+    <string name="search_hint_keywords">Keywords</string>
+    <string name="search_button_search">Search</string>
+
+    <!-- Job Details Screen -->
+    <string name="job_details_title">Job Details</string>
+    <string name="job_details_company">Company</string>
+    <string name="job_details_location">Location</string>
+    <string name="job_details_description">Description</string>
+    <string name="job_details_apply">Apply Now</string>
+
+    <!-- Saved Jobs Tab -->
+    <string name="saved_jobs_title">Saved Jobs</string>
+    <string name="saved_jobs_empty">No saved jobs yet</string>
+
+    <!-- Profile Tab -->
+    <string name="profile_title">My Profile</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_logout">Logout</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_notification_toggle">Enable Notifications</string>
+    <string name="settings_notification_sound">Notification Sound</string>
+    <string name="settings_notification_vibrate">Vibrate</string>
+    <string name="settings_notification_frequency">Notification Frequency</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_spanish">Spanish</string>
+    <string name="settings_save">Save</string>
+
+    <!-- Additional Features -->
+    <!-- Advanced Search Filters -->
+    <string name="search_filter_salary_range">Salary Range</string>
+    <string name="search_filter_job_type">Job Type</string>
+    <string name="search_filter_experience_level">Experience Level</string>
+    <string name="search_filter_company_size">Company Size</string>
+    <string name="search_filter_button_apply">Apply Filters</string>
+
+    <!-- Job Alerts -->
+    <string name="job_alerts_title">Job Alerts</string>
+    <string name="job_alerts_create">Create Job Alert</string>
+    <string name="job_alerts_manage">Manage Job Alerts</string>
+    <string name="job_alerts_keyword_hint">Enter keywords</string>
+    <string name="job_alerts_location_hint">Enter location</string>
+    <string name="job_alerts_frequency">Alert Frequency</string>
+    <string name="job_alerts_button_save">Save Alert</string>
+
+    <!-- Company Profiles -->
+    <string name="company_profile_title">Company Profile</string>
+    <string name="company_profile_size">Company Size</string>
+    <string name="company_profile_industry">Industry</string>
+    <string name="company_profile_location">Location</string>
+    <string name="company_profile_reviews">Employee Reviews</string>
+    <string name="company_profile_view_jobs">View Jobs</string>
+
+    <!-- Resume Builder -->
+    <string name="resume_builder_title">Resume Builder</string>
+    <string name="resume_builder_template">Choose Template</string>
+    <string name="resume_builder_experience">Work Experience</string>
+    <string name="resume_builder_education">Education</string>
+    <string name="resume_builder_skills">Skills</string>
+    <string name="resume_builder_format">Format Options</string>
+    <string name="resume_builder_save">Save Resume</string>
+
+    <!-- Career Advice -->
+    <string name="career_advice_title">Career Advice</string>
+    <string name="career_advice_articles">Featured Articles</string>
+    <string name="career_advice_tips">Job Search Tips</string>
+    <string name="career_advice_resume">Resume Writing</string>
+    <string name="career_advice_interview">Interview Tips</string>
+    <string name="career_advice_networking">Networking</string>
+
+    <!-- General -->
+    <string name="dialog_ok">OK</string>
+</resources>

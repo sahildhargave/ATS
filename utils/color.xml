@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="job__red">#D71313</color>
+    <color name="job__orange">#FDBF60</color>
+    <color name="job__yellow">#F1EF99</color>
+    <color name="job__green__var">#BFEA7C</color>
+    <color name="job__mint">#8000994d</color>
+    <color name="job__turquoise">#80009999</color>
+    <color name="job__cyan">#80004c99</color>
+    <color name="job__blue">#80000099</color>
+    <color name="job__purple">#804c0099</color>
+    <color name="job__pink">#80990099</color>
+    <color name="job__maroon">#8099004d</color>
+    <color name="job__grey">#C7C8CC</color>
+    <color name="job__green">#65B741</color>
+    <color name="job__white">#FFFFFF</color>
+    <color name="job__black">#121314</color>
+    <color name="job__light_violet">#C499F3</color>
+</resources>
